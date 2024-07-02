@@ -12,6 +12,7 @@ werkzeug = "*"
 pyopenssl = "*"
 python-decouple = "*"
 requests = "*"
+easy-thumbnails = "*"
 
 [dev-packages]
 ipython = "*"
