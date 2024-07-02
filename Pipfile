@@ -11,6 +11,7 @@ django-extensions = "*"
 werkzeug = "*"
 pyopenssl = "*"
 python-decouple = "*"
+requests = "*"
 
 [dev-packages]
 ipython = "*"
